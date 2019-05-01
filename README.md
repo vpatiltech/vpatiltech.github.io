@@ -1,2 +1,2 @@
 # vpatiltech.github.io
-Vinayak Patil's Web Page
+Vinayak Vasantrao Patil's Web Page
